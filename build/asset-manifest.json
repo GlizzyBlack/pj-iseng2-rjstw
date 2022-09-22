@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/trvlreacttailwind/static/css/main.467437dc.css",
+    "main.js": "/trvlreacttailwind/static/js/main.f0614638.js",
+    "static/js/787.53218d43.chunk.js": "/trvlreacttailwind/static/js/787.53218d43.chunk.js",
+    "static/media/beachVid.mp4": "/trvlreacttailwind/static/media/beachVid.aaafa1c17fc79e9a6d45.mp4",
+    "static/media/keywest.jpg": "/trvlreacttailwind/static/media/keywest.1e30514942c6f50bea09.jpg",
+    "static/media/maldives2.jpg": "/trvlreacttailwind/static/media/maldives2.ee088b6ef17100d7f85f.jpg",
+    "static/media/borabora.jpg": "/trvlreacttailwind/static/media/borabora.e6c4841f299365fdfa10.jpg",
+    "static/media/borabora2.jpg": "/trvlreacttailwind/static/media/borabora2.726ded1de37915f83c71.jpg",
+    "static/media/maldives.jpg": "/trvlreacttailwind/static/media/maldives.6912181c1b1fc6c5fa6f.jpg",
+    "static/media/maldives3.jpg": "/trvlreacttailwind/static/media/maldives3.9c3058f9a039c5a102a8.jpg",
+    "index.html": "/trvlreacttailwind/index.html",
+    "main.467437dc.css.map": "/trvlreacttailwind/static/css/main.467437dc.css.map",
+    "main.f0614638.js.map": "/trvlreacttailwind/static/js/main.f0614638.js.map",
+    "787.53218d43.chunk.js.map": "/trvlreacttailwind/static/js/787.53218d43.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.467437dc.css",
+    "static/js/main.f0614638.js"
+  ]
+}
